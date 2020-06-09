@@ -12,7 +12,7 @@ This exercise will help you understand how to use JavaScript functions and algor
 
 ### Step 2: Build out the HTML and CSS
 
-- Using the mockup provided below, create your HTML and CSS.
+- Using the mockup provided below, create your HTML and CSS. You may be creative with your design. This is just a suggestion.
 
 | Mockup                       | In Action                    |
 | ---------------------------- | ---------------------------- |
