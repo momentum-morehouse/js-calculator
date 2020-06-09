@@ -28,7 +28,7 @@ You _do not_ have to stop users from entering bad input. For instance, if a user
 
 You do not have to allow for chaining long calculations (like `2 + 4 * 7 - 2`), but you can.
 
-**Hint**: One way of evaluating mathematical expressions is [eval](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/eval). Another way is by using the [math.js](http://mathjs.org/) library.
+**Hint**: One way of evaluating mathematical expressions is [eval](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/eval) (note you don't want to use this for calculations in real life, but it's a good choice for this project. Another way is by using the [math.js](http://mathjs.org/) library.
 
 ### Bonus steps
 
